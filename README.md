@@ -1,6 +1,6 @@
 # todome-mcp
 
-Todome-MCP adalah sebuah modul/skrip Python sederhana untuk mengelola **Multiple Choice Problems (MCP)** dalam aplikasi manajemen tugas (“todo”). Tujuannya adalah meningkatkan fleksibilitas dalam memberi soal pilihan ganda serta integrasinya ke dalam sistem todo.
+Todome-MCP adalah sebuah modul/skrip Python sederhana untuk mengelola **Model Context Protocol (MCP)** dalam merancang aplikasi manajemen tugas (“todo”). Tujuannya adalah meningkatkan fleksibilitas dalam memberi soal pilihan ganda serta integrasinya ke dalam sistem todo.
 
 ---
 
